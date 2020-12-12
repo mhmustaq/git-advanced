@@ -1,0 +1,2 @@
+This is my stash file.
+This line is for stashing.
